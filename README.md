@@ -1,3 +1,5 @@
+my project for MEAN full stack class
+
 # DevConnector 2.0
 
 > Social network for developers
